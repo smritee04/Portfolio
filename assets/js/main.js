@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
       statusEl.className = 'form-status';
 
       try {
-        const res = await fetch('https://formsubmit.co/ajax/gsmriti729@gmail.com', {
+        const res = await fetch('https://formsubmit.co/ajax/0e951d8262f67baf8f8207e9d676c971', {
           method: 'POST',
           headers: { 'Accept': 'application/json' },
           body: formData

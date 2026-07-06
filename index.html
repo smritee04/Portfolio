@@ -580,8 +580,11 @@
       </div>
 
       <!-- Contact form -->
-      <form id="contact-form" class="card p-7">
+      <form id="contact-form" class="card p-7" action="https://formsubmit.co/0e951d8262f67baf8f8207e9d676c971"
+    method="POST">
         <div class="grid sm:grid-cols-2 gap-5 mb-5">
+            <input type="hidden" name="_subject" value="New Portfolio Contact">
+    <input type="hidden" name="_captcha" value="false">
           <div>
             <label for="cf-name" class="form-label">Full Name</label>
             <input id="cf-name" name="name" type="text" required class="form-input" placeholder="Your name">
