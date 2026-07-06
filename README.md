@@ -53,7 +53,6 @@ smriti-portfolio/
 2. Open `index.html` directly in a browser, or serve it with a local dev server (e.g. VS Code's Live Server extension) for the best experience.
 
 ## Contact
-- Email: gsmriti729@gmail.com
 - GitHub: https://github.com/smritee04/
 - LinkedIn: https://www.linkedin.com/in/smriti-giri-21119235b/
 - Location: Nepal
