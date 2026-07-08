@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smritigiri.com.np/sitemap.xml
+
+
